@@ -1,6 +1,6 @@
 ## OTP Verification Timer – Complete Project
 
-## Features (Exactly jo tum ne bola)
+## Features
 
 ✔ 60 seconds countdown
 ✔ Timer 0 par OTP input disable
